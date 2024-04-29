@@ -57,9 +57,8 @@ for p in filtered_participants:
 ```
 
 ## Acknowledgements
-Shout out to [Tahmid](https://github.com/withtahmid) and [Mahir](https://github.com/mahirshahriar1) for their amazing work in creating the solve tracker.
+* Shout out to [Tahmid](https://github.com/withtahmid) and [Mahir](https://github.com/mahirshahriar1) for their amazing work in creating the solve tracker.
 
-Thanks to North End Coffee Roasters for their great coffee.
+* Thanks to North End Coffee Roasters for their great coffee.
 
-And last but not least,
-Thanks to Season 17 of the NSUPS Bootcamp for not only making this project possible, but necessary.
+* And last but not least, thanks to Season 17 of the NSUPS Bootcamp for not only making this project possible, but necessary.
